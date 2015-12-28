@@ -1,0 +1,4 @@
+выполнить данные команды для работы docker
+sudo route -n add -net 172.18.0.0  172.17.8.101
+DOCKER_HOST="tcp://localhost:2375"
+vagrant up
